@@ -34,12 +34,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SameetPathan&show_icons=true&locale=en&layout=compact" alt="Sameet Pathan" /></p>
 
-<p align="left" >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=SameetPathan&&show_icons=true&theme=white"/>
-  </a>
-</p>
+![SameetPathan GitHub stats](https://github-readme-stats.vercel.app/api?username=SameetPathan&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SameetPathan&" alt="Sameet Pathan" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SameetPathan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SameetPathan&theme=calm)](https://git.io/streak-stats)

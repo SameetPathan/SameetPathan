@@ -18,6 +18,8 @@
 - 📫 How to reach me **Ping me on LinkedIn**
 
 - 📄 Know about my experiences by viewing my resume [https://drive.google.com/file/d/1RKqsQD1Yh0S7nlfahRG3_5V6Uc5d5tu_/view?usp=share_link](https://drive.google.com/file/d/1RKqsQD1Yh0S7nlfahRG3_5V6Uc5d5tu_/view?usp=share_link)
+- Freelancing Projects  : [https://drive.google.com/drive/folders/1q-1iXJ0v6jbotuyLkfjuUdfquJyCqCjR](https://drive.google.com/drive/folders/1q-1iXJ0v6jbotuyLkfjuUdfquJyCqCjR)
+
 
   
 <hr>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameet Pathan</h1>
-<h3 align="center">Software Developer Intern at Magna Internatinal</h3> 
+<h3 align="center">Full Stack(Mern) Developer and Blockchain (Dapps,Nft,DAO) Developer</h3> 
 <h1 align="center">BE In Computer Engineering and Honors in Blockchain (2023)</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SameetPathan&label=Profile%20views&color=0e75b6&style=flat" alt="Sameet Pathan" /> </p>

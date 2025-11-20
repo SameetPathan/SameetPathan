@@ -1,65 +1,125 @@
-<h1 align="center">Hi 👋, I'm Sameet Pathan</h1>
-<h3 align="center">Full Stack(Mern) Developer at ScriptAnalytica Technologies and Blockchain (Dapps,Nft,DAO) Developer</h3> 
-<h1 align="center">BE In Computer Engineering and Honors in Blockchain (2023)</h1>
+# Hi 👋, I'm Sameet Pathan
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SameetPathan&label=Profile%20views&color=0e75b6&style=flat" alt="Sameet Pathan" /> </p>
-
-
-- 🔭 I’m currently working on **Metaverse -  Blockchain Development**
-
-- 🌱 I’m currently learning **Three.js , API Integration**
-
-- 👯 I’m looking to collaborate on **Blockchain Development**
-
-- 🤝 I’m looking for help with **Metaverse Fronted Designing**
-
-- 💬 Ask me about **Blockchain, C++, Python, JAVA, Reactjs, MYSQL, Web Application Development, Android App Development, C# ,Javascript, Firebase, CSS, Solidity**
-
-- 📫 How to reach me **Ping me on LinkedIn**
-
-- 📄 Know about my experiences by viewing my resume [[https://drive.google.com/file/d/1RKqsQD1Yh0S7nlfahRG3_5V6Uc5d5tu_/view?usp=share_link](https://drive.google.com/file/d/1C-u4Qa5yr0WBd2C8nLxPk44SEDB5C4at/view?usp=share_link)]([https://drive.google.com/file/d/1RKqsQD1Yh0S7nlfahRG3_5V6Uc5d5tu_/view?usp=share_link](https://drive.google.com/file/d/1C-u4Qa5yr0WBd2C8nLxPk44SEDB5C4at/view?usp=share_link))
-- Freelancing Projects  : [https://drive.google.com/drive/folders/1q-1iXJ0v6jbotuyLkfjuUdfquJyCqCjR](https://drive.google.com/drive/folders/1q-1iXJ0v6jbotuyLkfjuUdfquJyCqCjR)
-
-
-  
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetC" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <img src="https://komarev.com/ghpvc/?username=SameetPathan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SameetPathan" alt="Sameet Pathan" /></a> </p>
+## 🚀 Full Stack Developer | AI Solutions Architect | Blockchain Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Full Stack Developer at **Priro Systems Inc** specializing in AI-powered solutions, data extraction, and cloud technologies. Passionate about building scalable applications that solve real-world problems using cutting-edge technology.
 
-<a href="https://www.linkedin.com/in/sameetpathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/SameetPathan/" height="30" width="40" /></a>
+### 🔭 Currently Working On
+- **AI-Powered Data Extraction Systems** using AWS Textract and Anthropic Claude
+- **Dynamic Document Generation** with .NET and React.js
+- **Financial Data Validation** tools for 401K, ESOP, and 403B plans
+- **Microservices Architecture** for secure data migration
 
+### 🌱 Currently Learning
+- Advanced AI/ML Integration
+- Three.js for immersive web experiences
+- API Integration best practices
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SameetPathan&show_icons=true&locale=en&layout=compact" alt="Sameet Pathan" /></p>
+### 💼 Professional Experience
+**Software Developer** @ Priro Systems Inc (via ScriptAnalytica Technologies) | June 2023 - Present
+- Developed end-to-end AI solutions for extracting data from 600+ page PDF documents
+- Built automated validation tools that reduced manual verification time by 70%
+- Engineered dynamic Python script generation systems for large dataset analysis
+- Created containerized microservices for secure financial data processing
 
-![SameetPathan GitHub stats](https://github-readme-stats.vercel.app/api?username=SameetPathan&show_icons=true&theme=radical)
+### 🏆 Recognition
+- **Recognition Award** from Priro Systems for exceptional performance in AI integration
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SameetPathan&theme=calm)](https://git.io/streak-stats)
+### 💡 Technical Expertise
+
+**Frontend Development**
+- React.js, Redux, JavaScript, HTML5, CSS3
+- Bootstrap, Reactstrap, Syncfusion
+
+**Backend Development**
+- Python, C#, ASP.NET, Node.js
+- RESTful APIs, Microservices
+
+**Cloud & AI**
+- AWS (S3, EC2, Lambda, DynamoDB, Textract)
+- Anthropic Claude, Prompt Engineering
+- MySQL, Firebase
+
+**Blockchain**
+- Solidity, Web3, Smart Contracts
+- DApps, NFTs, DAO Development
+
+**Tools & Methods**
+- Git, Bitbucket, JIRA
+- Agile/Scrum methodologies
+- REST/JSON APIs
+
+### 📚 Featured Projects
+
+**Smart Care DApp** - Decentralized healthcare application connecting stakeholders using React.js, Solidity, and Ethereum
+
+**Blockchain-Based UNI Project** - University management system using Solidity, Web3, and React.js
+
+**MSBTE Marksheet Data Extraction** - Automated data extraction using Python
+
+**IoT Based Agriculture** - Smart farming solution with Embedded C and Arduino
+
+### 🎓 Education
+**Bachelor of Engineering (BE)** - Computer Science with Honors in Blockchain  
+Pimpri Chinchwad College of Engineering, India | 2020 - 2023
+
+**Diploma** - Computer Science  
+Latthe Education Society's Polytechnic, India | 2017 - 2020
+
+### 📫 Let's Connect
+- 💼 LinkedIn: [linkedin.com/in/sameetpathan](https://www.linkedin.com/in/sameetpathan)
+- 📧 Email: sameetpathanrs@gmail.com
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1C-u4Qa5yr0WBd2C8nLxPk44SEDB5C4at/view?usp=share_link)
+- 💼 Freelancing Projects: [View Portfolio](https://drive.google.com/drive/folders/1q-1iXJ0v6jbotuyLkfjuUdfquJyCqCjR)
+
+### 👯 Open to Collaborate On
+- Blockchain Development Projects
+- AI/ML Integration Solutions
+- Full Stack Web Applications
+- Metaverse & Web3 Projects
+
+### 💬 Ask Me About
+Blockchain, Python, C#, React.js, AI Integration, AWS, .NET, Web Development, Solidity, Smart Contracts, Data Extraction, Microservices
+
+---
+
+## 🔥 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SameetPathan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SameetPathan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SameetPathan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/SameetPathan">SameetPathan</a></i>
+</p>
